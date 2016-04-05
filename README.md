@@ -8,8 +8,4 @@ an h2 header
 * _make a_
 * list
 
-
-1. An
-2. **Ordered**
-3. List
-
+Here is a new paragraf of _stuff_.
